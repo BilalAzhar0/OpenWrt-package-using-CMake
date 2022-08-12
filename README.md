@@ -1,9 +1,9 @@
-# OpenWrt-package-using-CMake
-_This repository is demonstrating how to employ CMake for building packages for an OpenWrt system. It is not a very comprehensive example but does demonstrate how implement CMake for a simple project, will be updated_  
+# OpenWRT-package-using-CMake
+_This repository is demonstrating how to employ CMake for building packages for an OpenWRT system. It is not a very comprehensive example but does demonstrate how implement CMake for a simple project, will be updated_  
 
 ## Commissioning build environment
 
-- Obtain an OpenWrt [build environment](https://openwrt.org/docs/guide-developer/toolchain/install-buildsystem), update and install your 'feeds' packages.
+- Obtain an OpenWRT [build environment](https://openwrt.org/docs/guide-developer/toolchain/install-buildsystem), update and install your 'feeds' packages.
 Configure the cross-compilation toolchain for your target device by navigating to the OpenWrt build system root directory and executing the command:
 ```
 make menuconfig
