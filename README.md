@@ -18,7 +18,7 @@ export PATH=/home/openwrt/staging_dir/host/bin:$PATH
 ```
 - Your build environment is now ready to create packages.
 
-##Preparing package repository
+## Preparing package repository
 
 - Create a directory <package name in this case "example1" this is the top level directory where our package manifest file "Makefile.mk" will reside, it must atleast contain the package description, where to obtain the source code, final package install instructions. I have not yet looked into additional configuration.
 
