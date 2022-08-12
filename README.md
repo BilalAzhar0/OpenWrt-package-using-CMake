@@ -3,7 +3,7 @@ _This repository is demonstrating how to employ CMake for building packages for 
 
 ## Commissioning build environment
 
-- Obtain an OpenWrt [build environment](https://openwrt.org/docs/guide-developer/toolchain/install-buildsystem) and update and install your 'feeds' packages.
+- Obtain an OpenWrt [build environment](https://openwrt.org/docs/guide-developer/toolchain/install-buildsystem), update and install your 'feeds' packages.
 Configure the cross-compilation toolchain for your target device by navigating to the OpenWrt build system root directory and executing the command:
 ```
 make menuconfig
