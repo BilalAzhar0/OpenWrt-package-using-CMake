@@ -1,5 +1,5 @@
 # OpenWRT-package-using-CMake
-_This repository is demonstrating how to employ CMake for building packages for an OpenWRT system. It is not a very comprehensive example but does demonstrate how implement CMake for a simple project, will be updated_  
+_This repository is demonstrating how to employ CMake for building packages for an OpenWRT system. It is not a very comprehensive example but does demonstrate how  to implement CMake for a simple project, will be updated_  
 
 ## Commissioning build environment
 
