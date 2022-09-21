@@ -25,7 +25,7 @@ endef
 
 define Build/Prepare
 	mkdir -p $(PKG_BUILD_DIR)
-	$(CP) ./poject/* $(PKG_BUILD_DIR)/
+	$(CP) ./project/* $(PKG_BUILD_DIR)/
 endef
 
 define Package/example1/install
